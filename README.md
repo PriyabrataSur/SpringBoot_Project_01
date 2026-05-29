@@ -1,6 +1,6 @@
 # SpringBoot_Project_01
 
-## Task 1: User Management API (CRUD + JWT)  
+## User Management API (CRUD + JWT)  
 ### Objective:  
 Build a backend system to manage users with authentication.  
 ### Features:  
